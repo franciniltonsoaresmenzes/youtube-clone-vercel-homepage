@@ -2,7 +2,7 @@
 <div>
 <div style="display: inline-block">
   <img src="assets/preview-responsive.gif" style="width: 300px" >
-  <img src="assets/preview.gif" align="top" width="680px">
+  <img src="assets/preview.gif" align="top" width="600px">
 </div>
 
 ##
